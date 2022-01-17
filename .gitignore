@@ -1,0 +1,8 @@
+bin/
+pkg/**/*.a
+.scannerwork
+golangci-lint.report
+.DS_Store
+.vscode
+go.sum
+.idea
